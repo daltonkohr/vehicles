@@ -1,0 +1,19 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: firebrick;
+  text-align: center;
+}
+
+table, td{
+  border: solid;
+}
+
+ul {
+  color: gold;
+}
+
+li {
+  list-style: none;
+}
+
+
